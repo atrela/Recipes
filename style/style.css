@@ -1,0 +1,77 @@
+.bg-image {
+
+    background-image: url("../images/pv_590.jpg");
+    background-repeat: repeat-x;
+    min-height: 15em;
+    margin-bottom:-8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: yellow;
+    min-height: 60em;
+}
+
+.footer {
+ 
+    background-color:rgb(255, 3, 42);
+    min-height: 3em;
+    text-align: center;
+    color:whitesmoke;
+ 
+}
+.footer h6 {
+    padding-top:1em;
+    font-weight: bold;
+}
+
+.space-between{
+    background-color:rgb(255, 3, 42);
+    height: 1.5em;
+    
+}
+
+#title {
+    
+    color:rgb(255, 3, 42);
+    font-weight: bold;
+    font-size:6vw;
+    text-shadow: -4px 0 black, 0 4px white, 4px 0 black, 0 -4px black;
+    text-align: center;
+}
+
+.container {
+    font-family: "Apple Chancery", cursive !important;
+}
+
+.recipe-list {
+    text-align: center;
+    padding-top:2em;
+    padding-bottom:2em;
+}
+
+.recipe-details {
+    text-align: center;
+    padding-top:2em;
+    padding-bottom:2em;
+}
+
+.ingredient-list {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.recipe-list ul {
+  cursor: pointer;
+}
+
+
+h2, h3 {
+    font-weight: bold !important;
+}
+
+h3 {
+    padding-bottom:18px;
+}
